@@ -162,10 +162,7 @@ namespace ServerPaint.Logica
         protected void OnNuevaConexion(EventoConexionArgs e)
         {
             RegistroConexionEvent manejador = NuevaConexionEvent;
-            if (manejador != null)
-            {
-                manejador(e);
-            }
+            manejador?.Invoke();
         }
 
         private ConexionSocket RegistrarConexion(Socket cliente, CancellationToken token)
