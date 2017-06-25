@@ -1,0 +1,35 @@
+d:\documentos\documents\visual studio 2013\Projects\ServerPaint\ServerPaint\bin\Debug\ServerPaint.exe.config
+d:\documentos\documents\visual studio 2013\Projects\ServerPaint\ServerPaint\bin\Debug\ServerPaint.exe
+d:\documentos\documents\visual studio 2013\Projects\ServerPaint\ServerPaint\bin\Debug\ServerPaint.pdb
+d:\documentos\documents\visual studio 2013\Projects\ServerPaint\ServerPaint\obj\Debug\ServerPaint.csprojResolveAssemblyReference.cache
+d:\documentos\documents\visual studio 2013\Projects\ServerPaint\ServerPaint\obj\Debug\ServerPaint.Properties.Resources.resources
+d:\documentos\documents\visual studio 2013\Projects\ServerPaint\ServerPaint\obj\Debug\ServerPaint.csproj.GenerateResource.Cache
+d:\documentos\documents\visual studio 2013\Projects\ServerPaint\ServerPaint\obj\Debug\ServerPaint.exe
+d:\documentos\documents\visual studio 2013\Projects\ServerPaint\ServerPaint\obj\Debug\ServerPaint.pdb
+C:\Users\leonardo\Documents\Visual Studio 2015\Projects\ServerPaint\ServerPaint\ServerPaint\bin\Debug\ServerPaint.exe.config
+C:\Users\leonardo\Documents\Visual Studio 2015\Projects\ServerPaint\ServerPaint\ServerPaint\obj\Debug\ServerPaint.exe
+C:\Users\leonardo\Documents\Visual Studio 2015\Projects\ServerPaint\ServerPaint\ServerPaint\obj\Debug\ServerPaint.pdb
+C:\Users\leonardo\Documents\Visual Studio 2015\Projects\ServerPaint\ServerPaint\ServerPaint\bin\Debug\ServerPaint.exe
+C:\Users\leonardo\Documents\Visual Studio 2015\Projects\ServerPaint\ServerPaint\ServerPaint\bin\Debug\ServerPaint.pdb
+C:\Users\leonardo\Documents\Visual Studio 2015\Projects\ServerPaint\ServerPaint\ServerPaint\obj\Debug\ServerPaint.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\Documents\Visual Studio 2015\Projects\ServerPaint\ServerPaint\ServerPaint\obj\Debug\ServerPaint.Properties.Resources.resources
+C:\Users\leonardo\Documents\Visual Studio 2015\Projects\ServerPaint\ServerPaint\ServerPaint\obj\Debug\ServerPaint.csproj.GenerateResource.Cache
+C:\Users\leonardo\Documents\Visual Studio 2015\Projects\ServerPaint\ServerPaint\ServerPaint\obj\Debug\ServerPaint.Vista.resources
+C:\Users\estudiantes\Desktop\ServerPaint\ServerPaint\bin\Debug\ServerPaint.exe.config
+C:\Users\estudiantes\Desktop\ServerPaint\ServerPaint\obj\Debug\ServerPaint.exe
+C:\Users\estudiantes\Desktop\ServerPaint\ServerPaint\obj\Debug\ServerPaint.pdb
+C:\Users\estudiantes\Desktop\ServerPaint\ServerPaint\bin\Debug\ServerPaint.exe
+C:\Users\estudiantes\Desktop\ServerPaint\ServerPaint\bin\Debug\ServerPaint.pdb
+C:\Users\estudiantes\Desktop\ServerPaint\ServerPaint\obj\Debug\ServerPaint.csprojResolveAssemblyReference.cache
+C:\Users\estudiantes\Desktop\ServerPaint\ServerPaint\obj\Debug\ServerPaint.Vista.resources
+C:\Users\estudiantes\Desktop\ServerPaint\ServerPaint\obj\Debug\ServerPaint.Properties.Resources.resources
+C:\Users\estudiantes\Desktop\ServerPaint\ServerPaint\obj\Debug\ServerPaint.csproj.GenerateResource.Cache
+C:\Users\Leonardo\OneDrive\Proyectos\ServerPaintV3\ServerPaintV2\ServerPaintV2\ServerPaint\bin\Debug\ServerPaint.exe.config
+C:\Users\Leonardo\OneDrive\Proyectos\ServerPaintV3\ServerPaintV2\ServerPaintV2\ServerPaint\bin\Debug\ServerPaint.exe
+C:\Users\Leonardo\OneDrive\Proyectos\ServerPaintV3\ServerPaintV2\ServerPaintV2\ServerPaint\bin\Debug\ServerPaint.pdb
+C:\Users\Leonardo\OneDrive\Proyectos\ServerPaintV3\ServerPaintV2\ServerPaintV2\ServerPaint\obj\Debug\ServerPaint.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\OneDrive\Proyectos\ServerPaintV3\ServerPaintV2\ServerPaintV2\ServerPaint\obj\Debug\ServerPaint.Vista.resources
+C:\Users\Leonardo\OneDrive\Proyectos\ServerPaintV3\ServerPaintV2\ServerPaintV2\ServerPaint\obj\Debug\ServerPaint.Properties.Resources.resources
+C:\Users\Leonardo\OneDrive\Proyectos\ServerPaintV3\ServerPaintV2\ServerPaintV2\ServerPaint\obj\Debug\ServerPaint.csproj.GenerateResource.Cache
+C:\Users\Leonardo\OneDrive\Proyectos\ServerPaintV3\ServerPaintV2\ServerPaintV2\ServerPaint\obj\Debug\ServerPaint.exe
+C:\Users\Leonardo\OneDrive\Proyectos\ServerPaintV3\ServerPaintV2\ServerPaintV2\ServerPaint\obj\Debug\ServerPaint.pdb
